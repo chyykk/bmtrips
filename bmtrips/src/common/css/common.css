@@ -1,0 +1,92 @@
+/*清除浮动*/
+.clear{
+    clear:both;
+}
+.clearFix:after{display:block;visibility:hidden;clear:both;height:0;content:'';}
+.clearFix{zoom:1;}
+
+body{font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Lantinghei SC', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif}
+.f-24-b{
+  font-size:24px;
+  color:#444444;
+  /*line-height: 24px;*/
+  font-weight: bold;
+}
+.f-20-b{
+  font-size:20px;
+  color:#1e1e1e;
+  line-height: 20px;
+}
+.f-18-b{
+  font-size:18px;
+  color:#1e1e1e;
+  line-height: 20px;
+}
+.f-16-m{
+  font-size:16px;
+  color:#f96868;
+  line-height: 20px;
+}
+.f-16-g-p{
+  font-size:16px;
+  color:#74777E;
+  line-height: 28px;
+}
+.f-16-g{
+  font-size:16px;
+  color:#74777E;
+  line-height: 20px;
+}
+.f-16-b-p{
+  font-size: 16px;
+  color:#1e1e1e;
+  line-height: 28px;
+}
+.f-16-b{
+  font-size:16px;
+  color:#1e1e1e;
+  line-height: 20px;
+}
+.f-14-s{
+  font-size: 14px;
+  line-height: 20px;
+  color:#62A8EA;
+}
+.f-14-m{
+  font-size:14px;
+  color:#f96868;
+  line-height: 20px;
+}
+.f-14-m-p{
+  font-size:14px;
+  color:#f96868;
+  line-height: 28px;
+}
+.f-14-g-p{
+  font-size: 14px;
+  color:#74777E;
+  line-height: 28px;
+}
+.f-14-g2{
+  font-size: 14px;
+  color:#c3c3c3;
+  line-height: 28px;
+}
+.f-14-g{
+  font-size: 14px;
+  color:#75777E;
+  line-height: 20px;
+}
+.f-14-b{
+  font-size: 14px;
+  color:#1e1e1e;
+  line-height: 20px;
+}
+.f-12-g{
+  font-size:12px;
+  color:#74777E;
+  line-height: 20px;
+}
+.c-m{
+  color:#f96868;
+}

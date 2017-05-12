@@ -1,0 +1,69 @@
+{
+ "swiper":[
+    {
+      "id": "6",
+      "swipertitle": "巴厘岛",
+      "swiperimgurl": "http://7xnvxo.com2.z0.glb.qiniucdn.com/58b926fbc1645.jpg?imageView2/5/w/900/h/600|imageMogr2/thumbnail/900x600!/format/jpg/interlace/1/q/75",
+      "swiperrul": {
+        "name": "productarr",
+        "params": {
+          "triplist": "bali"
+        }
+      },
+      "flag": "1",
+      "intime": "2017-03-29 16:40:41"
+    },
+    {
+      "id": "7",
+      "swipertitle": "泰国",
+      "swiperimgurl": "http://7xnvxo.com2.z0.glb.qiniucdn.com/58b926f8af2e1.jpg?imageView2/5/w/900/h/600|imageMogr2/thumbnail/900x600!/format/jpg/interlace/1/q/75",
+      "swiperrul": {
+        "name": "productarr",
+        "params": {
+          "triplist": "thailand"
+        }
+      },
+      "flag": "1",
+      "intime": "2017-03-29 16:39:49"
+    },
+    {
+      "id": "8",
+      "swipertitle": "日本",
+      "swiperimgurl": "http://7xnvxo.com2.z0.glb.qiniucdn.com/58b926fa6c939.jpg?imageView2/5/w/900/h/600|imageMogr2/thumbnail/900x600!/format/jpg/interlace/1/q/75",
+      "swiperrul": {
+        "name": "productarr",
+        "params": {
+          "triplist": "japan"
+        }
+      },
+      "flag": "1",
+      "intime": "2017-03-29 16:38:55"
+    },
+    {
+      "id": "9",
+      "swipertitle": "海南",
+      "swiperimgurl": "http://7xnvxo.com2.z0.glb.qiniucdn.com/58da1d21e1ca4.png?imageView2/5/w/900/h/600|imageMogr2/thumbnail/900x600!/format/jpg/interlace/1/q/75",
+      "swiperrul": {
+        "name": "productarr",
+        "params": {
+          "triplist": "hainan"
+        }
+      },
+      "flag": "1",
+      "intime": "2017-03-29 16:37:03"
+    },
+    {
+      "id": "10",
+      "swipertitle": "发现更多",
+      "swiperimgurl": "http://7xnvxo.com2.z0.glb.qiniucdn.com/58b92703d8f64.jpg?imageView2/5/w/900/h/600|imageMogr2/thumbnail/900x600!/format/jpg/interlace/1/q/75",
+      "swiperrul": {
+        "name": "productarr",
+        "params": {
+          "triplist": "1"
+        }
+      },
+      "flag": "1",
+      "intime": "2017-03-29 16:36:35"
+    }
+  ]
+}

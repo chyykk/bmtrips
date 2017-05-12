@@ -1,0 +1,134 @@
+{"goods": [
+  {
+    "name": "热销榜",
+    "type": -1,
+    "foods": [
+      {
+        "name": "皮蛋瘦肉粥",
+        "price": 10,
+        "oldPrice": "",
+        "description": "咸粥",
+        "sellCount": 229,
+        "rating": 100,
+        "info": "一碗皮蛋瘦肉粥，总是我到粥店时的不二之选。香浓软滑，饱腹暖心，皮蛋的Q弹与瘦肉的滑嫩伴着粥香溢于满口，让人喝这样的一碗粥也觉得心满意足",
+        "ratings": [
+          {
+            "username": "3******c",
+            "rateTime": 1469281964000,
+            "rateType": 0,
+            "text": "很喜欢的粥",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "2******3",
+            "rateTime": 1469271264000,
+            "rateType": 0,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "3******b",
+            "rateTime": 1469261964000,
+            "rateType": 1,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          }
+        ],
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+      },
+      {
+        "topimage":["http://7xnvxo.com2.z0.glb.qiniucdn.com/58b98a326e69d.jpg?imageView2/5/w/900/h/600|imageMogr2/thumbnail/900x600/format/jpg/interlace/1/q/75","http://7xnvxo.com2.z0.glb.qiniucdn.com/58b98959d833f.jpg?imageView2/5/w/900/h/600|imageMogr2/thumbnail/900x600/format/jpg/interlace/1/q/75"],
+        "name": "【匠心营造】日本关东+关西深度丨8日7晚20人精品团",
+        "fu-title": "《你的名字》实景地 · 双古都世界遗产",
+        "score": "5",
+        "pmrecommend": "★ 【你的名字。】圣地巡礼-諏訪湖，1晚日式温泉酒店榻榻米体验！,<br>★ 御殿场奥特莱斯，大阪、东京各一天自由活动，释放血拼天性！<br>★ 20人轻奢团，承诺无自费+不进购物店，回归安心纯玩!",
+        "deslist": ["http://7xnvxo.com2.z0.glb.qiniucdn.com/58b98349a5dd0.jpg?imageView2/2/w/750/format/jpg/interlace/1/q/80","http://7xnvxo.com2.z0.glb.qiniucdn.com/58e62b3a5b91d.jpg?imageView2/2/w/750/format/jpg/interlace/1/q/80","http://7xnvxo.com2.z0.glb.qiniucdn.com/58b9834a23804.jpg?imageView2/2/w/750/format/jpg/interlace/1/q/80","http://7xnvxo.com2.z0.glb.qiniucdn.com/58b9834a6f3c4.jpg?imageView2/2/w/750/format/jpg/interlace/1/q/80","http://7xnvxo.com2.z0.glb.qiniucdn.com/58b9834abd15e.jpg?imageView2/2/w/750/format/jpg/interlace/1/q/80"],
+        "info": "一碗皮蛋瘦肉粥，总是我到粥店时的不二之选。香浓软滑，饱腹暖心，皮蛋的Q弹与瘦肉的滑嫩伴着粥香溢于满口，让人喝这样的一碗粥也觉得心满意足",
+        "daies":[
+          {
+            "day":"D1",
+            "xingcheng": "上海 - 大阪",
+            "hotel": "大阪丽嘉皇家酒店 / 阪神酒店 / 大阪全日空皇冠假日酒店 / 或其他同级市区酒店",
+            "eat": "敬请自理 - 敬请自理 - 敬请自理",
+            "info":[
+              {}]
+          },
+          {
+            "day":"D2",
+            "xingcheng": "大阪全日自由活动",
+            "hotel": "大阪丽嘉皇家酒店 / 阪神酒店 / 大阪全日空皇冠假日酒店 / 或其他同级市区酒店",
+            "eat": "酒店早餐 - 敬请自理 - 敬请自理",
+            "info":[]
+          },
+          {
+            "day":"D3",
+            "xingcheng": "【奈良】春日大社丨东大寺丨奈良公园 - 【京都】清水寺 - 花见小路 - 伏见稻荷大社",
+            "hotel": "岐阜利索尔酒店 / 岐阜大酒店 / 或其他同级酒店",
+            "eat": "酒店早餐 - 日式定食 - 京都特色：汤豆腐料理",
+            "info":[]
+          },
+          {
+            "day":"D4",
+            "xingcheng": "【白川乡】合掌村丨相逢桥丨城山展望台 - 【高山】高山阵屋丨三町古街丨樱山八幡宫",
+            "hotel": "高山市绿色酒店 / 高山贝斯特韦斯特酒店 / 奥尔皮娜海达高山市Spa酒店 / 或其他同级别酒店",
+            "eat": "酒店早餐 - 日式定食 - 敬请自理",
+            "info":[]
+          },
+          {
+            "day":"D5",
+            "xingcheng": "【高山】宫川朝市 - 【飞驒】诹访湖丨诹访大社丨诹访美术馆",
+            "hotel": "八田酒店 / 富士野屋夕亭酒店 / 或其他同级别酒店",
+            "eat": "酒店早餐 - 日式定食 - 日式会席料理（酒店内）",
+            "info":[]
+          },
+          {
+            "day":"D6",
+            "xingcheng": "【富士山】河口湖丨忍野八海丨富士五合目 - 【箱根】御殿场奥特莱斯",
+            "hotel": "太阳城王子大饭店 / 品川王子大饭店 / 或其他同级市区酒店",
+            "eat": "酒店早餐 - 日式定食 - 敬请自理",
+            "info":[]
+          },
+          {
+            "day":"D7",
+            "xingcheng": "东京全日自由活动",
+            "hotel": "太阳城王子大饭店 / 品川王子大饭店 / 或其他同级市区酒店",
+            "eat": "酒店 - 自理 - 自理",
+            "info":[]
+          },
+          {
+            "day":"D8",
+            "xingcheng": "东京 - 上海",
+            "hotel": "无",
+            "eat": "酒店早餐 - 敬请自理 - 敬请自理",
+            "info":[]
+          }
+        ],
+        "ratings": [
+          {
+            "username": "3******c",
+            "rateTime": 1469281964000,
+            "rateType": 0,
+            "text": "很喜欢的粥",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "2******3",
+            "rateTime": 1469271264000,
+            "rateType": 0,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          },
+          {
+            "username": "3******b",
+            "rateTime": 1469261964000,
+            "rateType": 1,
+            "text": "",
+            "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+          }
+        ],
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+      }
+    ]}]
+  }
